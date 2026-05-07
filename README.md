@@ -1,19 +1,19 @@
-# Olá, eu sou o Heitor! 👨‍💻👋
+# Olá, eu sou o Heitor! 👨‍💻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6bm96bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYBy6pkk/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lwN2N2NHc4NDRrNDZtMXk0ZjFhcDltbTVkejZmN3R2ZWdlc3pkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UQ9SksH9TqXo4/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Atualmente, estou trilhando meu caminho no mundo da tecnologia com foco em aprendizado contínuo e resolução de problemas.
+Atualmente, estou ⬇️⬇️
 
 - 🎓 Graduando em **Ciências da Computação** pela **UniFil**.
 - 💼 Estagiário na **Prefeitura Municipal de Rolândia**.
 - 📍 Localizado em: Rolândia - PR.
-- 🌱 No momento, estou aprofundando meus conhecimentos em **Java**.
+- 🌱 No momento, estou estudando em **Java**.
 
 ---
 
@@ -22,9 +22,7 @@ Atualmente, estou trilhando meu caminho no mundo da tecnologia com foco em apren
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" hspace="5">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" hspace="5">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" hspace="5">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="5">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace="5">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" hspace="5"
 </div>
 
 ---
@@ -43,6 +41,5 @@ Atualmente, estou trilhando meu caminho no mundo da tecnologia com foco em apren
 ---
 
 <div align="center">
-  <p>Vamos construir algo incrível juntos! 🕸️</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHduemd4eXo3NHlpbDJpaGhmb3JueDd5NWZjNzhobXVlNjYweG9yMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMfsFjz03H1vfy7OXr/giphy.gif" width="300" alt="Spider-man GIF">
 </div>
